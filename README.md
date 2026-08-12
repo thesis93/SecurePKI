@@ -19,3 +19,15 @@ The main objectives of SecurePKI are to:
 
 ## Planned Architecture
 The platform will run on AWS using Amazon EKS as the Kubernetes platform.
+
+## Planned Technologies
+- AWS
+- Terraform
+- Kubernetes / Amazon EKS
+- Docker
+- HashiCorp Vault
+- cert-manager
+- GitHub Actions
+- Python / FastAPI
+- Prometheus
+- Grafana
